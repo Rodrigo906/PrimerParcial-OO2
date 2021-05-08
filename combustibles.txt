@@ -1,0 +1,2 @@
+70;Nafta comun;0.05
+90;Nafta super;0.1;0.12;20
